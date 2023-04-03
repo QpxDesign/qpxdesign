@@ -1,38 +1,65 @@
-.App {
-  text-align: center;
+:root {
+  --header-background: #111827;
+  --header-text: #e2e8f0;
+  --body-background: #f1f5f9;
+  --body-text: #111827;
+  font-family: "futura-pt";
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header,
+header h1 {
+  color: var(--header-text);
+  background-color: var(--header-background);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background-color: var(--body-background);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: var(--body-text);
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 2.5em;
+  font-weight: 800;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+section {
+  height: 100vh;
+}
+.fancy-font {
+  font-family: "bely-display", sans-serif;
+}
+.center {
+  margin: 0 auto;
+}
+.h-cen {
+  display: flex;
+  justify-content: center;
+}
+.v-cen {
+  display: flex;
+  align-items: center;
+}
+.col {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.button-1 {
+  border: none;
+  font-family: "futura-pt";
+  font-size: 1.5em;
+  background-color: black;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  padding: 0.125em 1.75em;
+  border-radius: 100em;
 }

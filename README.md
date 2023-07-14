@@ -1,9 +1,22 @@
-## qpxdesign : Fullerstack Web Development
+## hi, i'm quinn patwardhan. 
 
-### What We Do
+### About Me
+I'm a high school junior in Washington, DC. My hobbies include skateboarding, photography, graphic design, 3D printing, and programming. I am a die-hard Ravens fan and an environmentalist. I play ultimate frisbee. I am an apsiring Software Engineer and Comedy Writer. See below for some of what i'm up to in and out of school:
+- Developed two IOS/Android Train-Tracker Apps with 600+ total downloads and dozens of daily users
+-Founder, Co-Head, & Lead Developer of School CS Club
+-Current Intern at Georgetown University Department of Computer Science's InfoSense Artificial Intelligence Research Lab
+-I've appeared in the New York Times
 
-We are a web development firm, and we build our clients digital profile from the ground up. Our services include everything from logo design and copy writing to web app/site development. Our founder, Quinn, uses his 3+ years of expertise in both graphic design and web development to give clients a low-cost but high-preforming products. We have experience working with every step of deploying webapps from generating unique UX/UI to deploying databases, sites, and backend servers.
+### My Intrests
+- California
+- Trains & Planes
+- Linux
+- Self-Hosting
+- Photography
+- Graphic Design
+- Web & App Development
+- AI/ML
 
 ### Contact
 
-please email quinn at quinn@qpxdesign.com with any inquiries about our services
+please email me at me@quinnpatwardhan.com.

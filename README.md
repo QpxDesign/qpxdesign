@@ -9,7 +9,7 @@ I'm a high school junior in Washington, DC. My hobbies include skateboarding, ph
 
 ### My Intrests
 - California
-- Trains & Planes
+- Public Transposition/Urban Design 
 - Linux
 - Self-Hosting
 - Photography

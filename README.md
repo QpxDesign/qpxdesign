@@ -25,4 +25,4 @@ Conversational Agents"](http://arxiv.org/abs/2311.09513)
 
 ### Contact
 
-please email me at me@quinnpatwardhan.com.
+please email me at qroshan5@gmail.com

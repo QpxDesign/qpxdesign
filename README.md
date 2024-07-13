@@ -1,6 +1,5 @@
 ## hi, i'm quinn patwardhan. 
-
-![image info](https://quinnpatwardhan.com/Assets/logos/Rust.png)
+![](https://api.quinnpatwardhan.com)
 
 ### About Me
 I'm an incoming freshman at Occidental College from Washington, DC. My hobbies include skateboarding, photography, graphic design, 3D printing, and programming. I am a die-hard Ravens fan and an environmentalist. I play ultimate frisbee. I am an aspiring Software Engineer and Comedy Writer. See below for some of what I'm up to in and out of school:

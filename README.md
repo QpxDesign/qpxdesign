@@ -1,6 +1,4 @@
 ## hi, i'm quinn patwardhan. 
-![](https://api.quinnpatwardhan.com?github-view)
-
 ### About Me
 I'm an incoming freshman at Occidental College from Washington, DC. My hobbies include skateboarding, photography, graphic design, 3D printing, and programming. I am a die-hard Ravens fan and an environmentalist. I play ultimate frisbee. I am an aspiring Software Engineer and Comedy Writer. See below for some of what I'm up to in and out of school:
 - Interned at Georgetown University Department of Computer Science's InfoSense Artificial Intelligence Research Lab
@@ -27,3 +25,5 @@ Conversational Agents"](http://arxiv.org/abs/2311.09513)
 ### Contact
 
 please email me at qroshan5@gmail.com
+![](https://api.quinnpatwardhan.com?github-view)
+

@@ -1,10 +1,11 @@
 ## hi, i'm quinn patwardhan. 
 ### About Me
-I'm a sophmore at Occidental College from Washington, DC. My hobbies include skateboarding, photography, graphic design, 3D printing, and programming. I am a die-hard Ravens fan and an environmentalist. I play ultimate frisbee. I am an aspiring Software Engineer and Comedy Writer. See below for some of what I'm up to in and out of school:
-- Interned at Georgetown University Department of Computer Science's InfoSense Artificial Intelligence Research Lab
-- Developed two IOS/Android Train-Tracker Apps with 30,000+ total downloads and 500+ daily users
-- Founder, Co-Head, & Lead Developer of School CS Club
+I'm a junior at Occidental College from Washington, DC. I am an aspiring Software Engineer and Comedy Writer. See below for some of what I'm up to in and out of school:
+- Interned at Georgetown University Department of Computer Science's InfoSense Research Lab
+- Developed two IOS/Android Train-Tracker Apps with 150,000+ total downloads, $2600+ total revenue, and 1500+ daily users
+- Founder of [Lying Club](https://lying.club) and I developed FANG's (Oxy's Humor Magazine) [website](https://fang.news) and [archival issue browser](https://archival.fang.news)
 - I've appeared in the New York Times
+
 
 ### My Interests
 - Public Transposition/Urban Design 

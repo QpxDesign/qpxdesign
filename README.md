@@ -3,7 +3,7 @@
 I'm a junior at Occidental College from Washington, DC. I am an aspiring Software Engineer and Comedy Writer. See below for some of what I'm up to in and out of school:
 - Interned at Georgetown University Department of Computer Science's InfoSense Research Lab
 - Developed two IOS/Android Train-Tracker Apps with 150,000+ total downloads, $2600+ total revenue, and 1500+ daily users
-- Founder of [Lying Club](https://lying.club) and I developed FANG's (Oxy's Humor Magazine) [website](https://fang.news) and [archival issue browser](https://archival.fang.news)
+- Founder of [Lying Club](https://lying.club) and I developed FANG's (Oxy's Humor Magazine) [website](https://fang.news) and [archival issue browser](https://archives.fang.news)
 - I've appeared in the New York Times
 
 
